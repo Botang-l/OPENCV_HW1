@@ -5,7 +5,7 @@
 - 相機拍攝的圖像會產生一定程度的失真，失真類型可分成 radial distortion 與 tangential distortion 兩種。
     - Radial distortion 會導致現實中的直線在圖片中呈現彎曲，且當點離圖像中心越遠，徑向畸變越大。以下圖為例，將圖中棋盤依兩邊緣連線後，可明顯觀察到圖的失真狀態。
 
-    ![](https://playlab.computing.ncku.edu.tw:3001/uploads/upload_b508b147ee32c3e27bfa45d2d4e7cf81.png)
+        ![](https://playlab.computing.ncku.edu.tw:3001/uploads/upload_b508b147ee32c3e27bfa45d2d4e7cf81.png)
     
     - Tangential  distortion 導因於攝像鏡頭沒有與成像平面平行，導致圖像中的遠近無法被清楚表達。
 
